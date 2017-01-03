@@ -1,0 +1,26 @@
+*.py[cod]
+.*
+!.babelrc
+!.coveragerc
+!.dockerignore
+!.flowconfig
+!.gitignore
+!.nvmrc
+!.pylintrc
+!.travis*
+*.css
+*.log
+*.pot
+*.pyc
+local_settings.py
+__pycache__/
+build/
+dist/
+*\.egg*
+# data
+/docs/_build/
+/media/
+/node_modules/
+/static/
+/saleor/static/assets/
+webpack-bundle.json
